@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Golab22
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on Flutter project
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me - krzysztof.golebiowski22@gmail.com
 
 <!---
